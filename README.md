@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Lauren Asher Author Website
+# 📚 LAUREN ASHER AUTHOR WEBSITE 
 
 *A cozy fan-made author website for discovering books, bonus content, playlists, and more.*
 
