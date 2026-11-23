@@ -1,2 +1,144 @@
-# Authorswebsite
-This is my first project, where you can see a functional authors website and buy books, vibe with the music.
+<div align="center">
+
+# 📚 Lauren Asher Author Website
+
+*A cozy fan-made author website for discovering books, bonus content, playlists, and more.*
+
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Now-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://navyats22.github.io/Authorswebsite/AUTHORS%20PAGE/)
+[![GitHub Pages](https://img.shields.io/badge/Hosted%20with-GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+[![HTML](https://img.shields.io/badge/HTML-100%25-e34f26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+
+</div>
+
+## ✨ About the Project
+
+**Authorswebsite** is a static fan website dedicated to romance author Lauren Asher. It highlights her author profile, popular books, reading order, bonus content, and Spotify playlists in a warm, pink-themed interface.
+
+This repository was created as a first web development project to practice HTML page structure, navigation, embedded media, image assets, forms, and GitHub Pages deployment.
+
+## 🌐 Live Demo
+
+### [🔗 Open the Authors Website](https://navyats22.github.io/Authorswebsite/AUTHORS%20PAGE/)
+
+## 📸 Website Preview
+
+| Page | Description |
+| :--- | :--- |
+| Home | Author navigation, recent books, FAQs, newsletter, and social links |
+| About Me | Author biography and favourite details |
+| Shop My Books | Book listings with prices, ratings, and Amazon links |
+| Bonus Content | Extended epilogues hosted through BookFunnel |
+| Playlist | Spotify embeds paired with book-themed trope images |
+
+## 🧰 Built With
+
+<div align="center">
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://pages.github.com/)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+
+</div>
+
+The site is dependency-free and uses standard HTML, inline and embedded CSS, images, hyperlinks, and Spotify iframe embeds.
+
+## 🎀 Features
+
+- **Author profile** — biography and personal favourites
+- **Book catalogue** — covers, prices, ratings, and purchase links
+- **Reading order** — link to an external reading-order guide
+- **Bonus content** — links to downloadable extended epilogues
+- **Spotify playlists** — embedded playlists for individual books
+- **Frequently asked questions** — native HTML `<details>` accordions
+- **Social links** — Instagram, Facebook, Pinterest, Spotify, and X
+- **GitHub Pages hosting** — accessible as a static website
+
+## 🗂️ Project Structure
+
+```text
+Authorswebsite/
+├── README.md
+└── AUTHORS PAGE/
+    ├── index.html              # Home page and main navigation
+    ├── aboutme.html            # Lauren Asher biography
+    ├── shopmybooks.html        # Book catalogue and purchase links
+    ├── bonuscontent.html       # Extended epilogue links
+    ├── playlist.html           # Embedded Spotify playlists
+    └── Assets/
+        ├── AuthorImg.jpeg
+        ├── *BookImg.jpeg
+        ├── *Tropes.jpeg
+        └── social-media images
+```
+
+## 🚀 Run Locally
+
+No build tools or dependencies are required.
+
+### Option 1: Open in a browser
+
+1. Download or clone the repository:
+
+```bash
+git clone https://github.com/NavyaTs22/Authorswebsite.git
+```
+
+2. Open `AUTHORS PAGE/index.html` directly in your browser.
+
+### Option 2: Use a local server
+
+Using Python:
+
+```bash
+cd Authorswebsite
+python -m http.server 8000
+```
+
+Then visit: <http://localhost:8000/AUTHORS%20PAGE/>
+
+### Option 3: Use VS Code Live Server
+
+1. Open the repository in VS Code.
+2. Install the **Live Server** extension.
+3. Right-click `AUTHORS PAGE/index.html`.
+4. Select **Open with Live Server**.
+
+## ⚠️ Newsletter Note
+
+The newsletter form on the home page currently points to `https://your-email-service.com/subscribe`, so it is a demo placeholder and will not send subscriptions to a live mailing service. Connect it to an email platform such as Mailchimp, Substack, or a backend endpoint before collecting real addresses.
+
+## 🤝 Contributing
+
+Suggestions and improvements are welcome.
+
+1. Fork the repository.
+2. Create a feature branch:
+
+```bash
+git checkout -b feature/your-feature
+```
+
+3. Commit your changes:
+
+```bash
+git commit -m "Add your feature"
+```
+
+4. Push the branch and open a pull request.
+
+## 📄 License
+
+No license has been added to this repository. Please get permission from the repository owner before using or redistributing this project.
+
+## 💖 Author
+
+Created by [NavyaTs22](https://github.com/NavyaTs22).
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-NasyaTs22-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NavyaTs22)
+
+*Made with HTML, CSS, bookish vibes, and a little Spotify magic.*
+
+</div>
