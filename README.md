@@ -102,16 +102,12 @@ Then visit: <http://localhost:8000/AUTHORS%20PAGE/>
 3. Right-click `AUTHORS PAGE/index.html`.
 4. Select **Open with Live Server**.
 
-## NOTE : 
-
-The newsletter form on the home page currently points to `https://your-email-service.com/subscribe`, so it is a demo placeholder and will not send subscriptions to a live mailing service. Connect the form to an email service before using it for real newsletter sign-ups.
-
 #### Credits of Images and Author's content respectively belong to themselves and not me. 
 
 ## 🌸BUN ~
 
 Created by [NavyaTs22](https://github.com/NavyaTs22).
 
-*Made with HTML, CSS, bookish vibes, and a little Spotify magic.*
+*Made with HTML,CSS back pain and nudge around and figure it out vibes.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-NavyaTs22-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NavyaTs22)
