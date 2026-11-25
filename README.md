@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 LAUREN ASHER AUTHOR WEBSITE 
+#  🏎✨ LAUREN ASHER AUTHOR WEBSITE ✨🏎
 
 *A cozy fan-made author website for discovering books, bonus content, playlists, and more.*
 
@@ -10,17 +10,17 @@
 
 </div>
 
-## ✨ About the Project
+## ✨ ABOUT PROJECT ✨
 
-**Authorswebsite** is a static fan website dedicated to romance author Lauren Asher. It highlights her author profile, popular books, reading order, bonus content, and Spotify playlists in a warm, pink-themed interface.
+**LaurenAsher** is a static fan website dedicated to romance author Lauren Asher. It highlights author profile, popular books, reading order, bonus content, and Spotify playlists in a warm, bubbly interface. 
 
 This repository was created as a first web development project to practice HTML page structure, navigation, embedded media, image assets, forms, and GitHub Pages deployment.
 
-## 🌐 Live Demo
+## 🌐 LIVE DEMO 
 
-### [🔗 Open the Authors Website](https://navyats22.github.io/Authorswebsite/AUTHORS%20PAGE/)
+### [ Open the Authors Website ](https://navyats22.github.io/Authorswebsite/AUTHORS%20PAGE/)
 
-## 📸 Website Preview
+## WEBSITE PREVIEW 
 
 | Page | Description |
 | :--- | :--- |
@@ -30,7 +30,7 @@ This repository was created as a first web development project to practice HTML 
 | Bonus Content | Extended epilogues hosted through BookFunnel |
 | Playlist | Spotify embeds paired with book-themed trope images |
 
-## 🧰 Built With
+## BUILT WITH ~
 
 <div align="center">
 
@@ -41,23 +41,23 @@ This repository was created as a first web development project to practice HTML 
 
 </div>
 
-The site is dependency-free and uses standard HTML, inline and embedded CSS, images, hyperlinks, and Spotify iframe embeds.
+This site is dependency-free and uses standard HTML, inline and embedded CSS, images, hyperlinks, and Spotify iframe embeds.
 
-## 🎀 Features
+## FEATURES ~
 
-- **Author profile** — biography and personal favourites
-- **Book catalogue** — covers, prices, ratings, and purchase links
-- **Reading order** — link to an external reading-order guide
-- **Bonus content** — links to downloadable extended epilogues
-- **Spotify playlists** — embedded playlists for individual books
-- **Frequently asked questions** — native HTML `<details>` accordions
+- **Author profile** — Biography and personal favourites
+- **Book catalogue** — Covers, prices, ratings, and purchase links
+- **Reading order** — Link to an external reading-order guide
+- **Bonus content** — Links to downloadable extended epilogues
+- **Spotify playlists** — Embedded playlists for individual books
+- **Frequently asked questions** — Native HTML `<details>` accordions
 - **Social links** — Instagram, Facebook, Pinterest, Spotify, and X
-- **GitHub Pages hosting** — accessible as a static website
+- **GitHub Pages hosting** — Accessible as a static website
 
-## 🗂️ Project Structure
+## PROJECT STRUCTURE 
 
 ```text
-Authorswebsite/
+LaurenAsher/
 ├── README.md
 └── AUTHORS PAGE/
     ├── index.html              # Home page and main navigation
@@ -72,7 +72,7 @@ Authorswebsite/
         └── social-media images
 ```
 
-## 🚀 Run Locally
+## RUN LOCALLY 
 
 No build tools or dependencies are required.
 
@@ -81,7 +81,7 @@ No build tools or dependencies are required.
 1. Download or clone the repository:
 
 ```bash
-git clone https://github.com/NavyaTs22/Authorswebsite.git
+git clone https://github.com/NavyaTs22/LaurenAsher.git
 ```
 
 2. Open `AUTHORS PAGE/index.html` directly in your browser.
@@ -104,41 +104,16 @@ Then visit: <http://localhost:8000/AUTHORS%20PAGE/>
 3. Right-click `AUTHORS PAGE/index.html`.
 4. Select **Open with Live Server**.
 
-## ⚠️ Newsletter Note
+## NOTE : 
 
 The newsletter form on the home page currently points to `https://your-email-service.com/subscribe`, so it is a demo placeholder and will not send subscriptions to a live mailing service. Connect it to an email platform such as Mailchimp, Substack, or a backend endpoint before collecting real addresses.
 
-## 🤝 Contributing
+#### Credits of Images and Author's content respectively belong to themselves and not me. 
 
-Suggestions and improvements are welcome.
-
-1. Fork the repository.
-2. Create a feature branch:
-
-```bash
-git checkout -b feature/your-feature
-```
-
-3. Commit your changes:
-
-```bash
-git commit -m "Add your feature"
-```
-
-4. Push the branch and open a pull request.
-
-## 📄 License
-
-No license has been added to this repository. Please get permission from the repository owner before using or redistributing this project.
-
-## 💖 Author
+## 💖 BUN 
 
 Created by [NavyaTs22](https://github.com/NavyaTs22).
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-NasyaTs22-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NavyaTs22)
-
 *Made with HTML, CSS, bookish vibes, and a little Spotify magic.*
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-NavyaTs22-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NavyaTs22)
