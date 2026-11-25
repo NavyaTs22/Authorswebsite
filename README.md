@@ -6,13 +6,13 @@
 
 [![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Now-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://navyats22.github.io/Authorswebsite/AUTHORS%20PAGE/)
 [![GitHub Pages](https://img.shields.io/badge/Hosted%20with-GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
-[![HTML](https://img.shields.io/badge/HTML-100%25-e34f26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![HTML](https://img.shields.io/badge/HTML-100%25-800080?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 
 </div>
 
 ## ✨ ABOUT PROJECT ✨
 
-**LaurenAsher** is a static fan website dedicated to romance author Lauren Asher. It highlights author profile, popular books, reading order, bonus content, and Spotify playlists in a warm, bubbly interface. 
+**LaurenAsher** is a static fan website dedicated to romance author Lauren Asher. It highlights author profile, popular books, reading order, bonus content, and Spotify playlists in a warm, bubbly, and reader-focused experience.
 
 This repository was created as a first web development project to practice HTML page structure, navigation, embedded media, image assets, forms, and GitHub Pages deployment.
 
@@ -32,8 +32,8 @@ This repository was created as a first web development project to practice HTML 
 
 <div align="center">
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-800080?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://pages.github.com/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 
@@ -93,7 +93,7 @@ cd LaurenAsher
 python -m http.server 8000
 ```
 
-Then visit: <http://localhost:8000/AUTHORS%20PAGE/>
+Then visit: <http://localhost:8000/AUTHORS%20PAGE/> 
 
 ### Option 3: Use VS Code Live Server
 
@@ -104,11 +104,11 @@ Then visit: <http://localhost:8000/AUTHORS%20PAGE/>
 
 ## NOTE : 
 
-The newsletter form on the home page currently points to `https://your-email-service.com/subscribe`, so it is a demo placeholder and will not send subscriptions to a live mailing service. Connect it to an email platform such as Mailchimp, Substack, or a backend endpoint before collecting real addresses.
+The newsletter form on the home page currently points to `https://your-email-service.com/subscribe`, so it is a demo placeholder and will not send subscriptions to a live mailing service. Connect the form to an email service before using it for real newsletter sign-ups.
 
 #### Credits of Images and Author's content respectively belong to themselves and not me. 
 
-## 🩷🌸✨ BUN ~
+## 🌸BUN ~
 
 Created by [NavyaTs22](https://github.com/NavyaTs22).
 
