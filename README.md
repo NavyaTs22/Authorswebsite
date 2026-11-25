@@ -16,9 +16,7 @@
 
 This repository was created as a first web development project to practice HTML page structure, navigation, embedded media, image assets, forms, and GitHub Pages deployment.
 
-## 🌐 LIVE DEMO 
-
-### [ Open the Authors Website ](https://navyats22.github.io/Authorswebsite/AUTHORS%20PAGE/)
+## [🌐 LIVE DEMO ](https://navyats22.github.io/LaurenAsher/AUTHORS%20PAGE/)
 
 ## WEBSITE PREVIEW 
 
