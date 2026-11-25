@@ -89,7 +89,7 @@ git clone https://github.com/NavyaTs22/LaurenAsher.git
 Using Python:
 
 ```bash
-cd Authorswebsite
+cd LaurenAsher
 python -m http.server 8000
 ```
 
@@ -108,7 +108,7 @@ The newsletter form on the home page currently points to `https://your-email-ser
 
 #### Credits of Images and Author's content respectively belong to themselves and not me. 
 
-## 💖 BUN 
+## 🩷🌸✨ BUN ~
 
 Created by [NavyaTs22](https://github.com/NavyaTs22).
 
